@@ -106,7 +106,3 @@ This project provides a comprehensive analysis of Amazon sales data, offering va
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README file further based on your specific needs and project details.
